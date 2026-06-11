@@ -1,0 +1,452 @@
+date;amount;counterparty;category
+2025-01-01;-72.51;EDEKA Center;Lebensmittel
+2025-01-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-01-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-01-03;-27.02;REWE Markt GmbH;Lebensmittel
+2025-01-03;-81.77;MediaMarkt;Shopping
+2025-01-07;-10.99;Spotify AB;Abos & Medien
+2025-01-08;-100.00;Geldautomat Sparkasse;Bargeld
+2025-01-08;-20.14;REWE Markt GmbH;Lebensmittel
+2025-01-08;-47.08;LIDL Dienstleistung;Lebensmittel
+2025-01-11;-23.17;Pizzeria Bella Italia;Freizeit & Gastro
+2025-01-13;-13.93;Cafe Central;Freizeit & Gastro
+2025-01-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-01-18;-25.30;ALDI SUED;Lebensmittel
+2025-01-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-01-19;-44.71;REWE Markt GmbH;Lebensmittel
+2025-01-19;-35.00;AMAZON EU S.A R.L.;Shopping
+2025-01-20;-22.49;Lieferando.de;Freizeit & Gastro
+2025-01-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-01-20;-125.11;Zalando SE;Shopping
+2025-01-22;-72.44;REWE Markt GmbH;Lebensmittel
+2025-01-24;-32.43;Lieferando.de;Freizeit & Gastro
+2025-01-25;-26.17;Lieferando.de;Freizeit & Gastro
+2025-01-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-01-26;-83.63;EDEKA Center;Lebensmittel
+2025-01-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-01-28;2850.00;Acme Software GmbH;Einkommen
+2025-02-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-02-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-02-05;-21.58;Cafe Central;Freizeit & Gastro
+2025-02-06;-66.49;DB Vertrieb GmbH;Mobilität
+2025-02-06;-40.21;EDEKA Center;Lebensmittel
+2025-02-06;-48.22;LIDL Dienstleistung;Lebensmittel
+2025-02-07;-42.43;McDonalds Deutschland;Freizeit & Gastro
+2025-02-07;-10.99;Spotify AB;Abos & Medien
+2025-02-08;-79.50;LIDL Dienstleistung;Lebensmittel
+2025-02-08;-139.65;AMAZON EU S.A R.L.;Shopping
+2025-02-09;-12.38;Cafe Central;Freizeit & Gastro
+2025-02-13;-32.18;LIDL Dienstleistung;Lebensmittel
+2025-02-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-02-17;-74.16;AMAZON EU S.A R.L.;Shopping
+2025-02-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-02-20;-63.24;EDEKA Center;Lebensmittel
+2025-02-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-02-21;-32.40;Cafe Central;Freizeit & Gastro
+2025-02-21;-67.87;EDEKA Center;Lebensmittel
+2025-02-22;-31.23;REWE Markt GmbH;Lebensmittel
+2025-02-22;-36.21;REWE Markt GmbH;Lebensmittel
+2025-02-24;-38.81;McDonalds Deutschland;Freizeit & Gastro
+2025-02-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-02-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-02-28;2850.00;Acme Software GmbH;Einkommen
+2025-03-01;-90.98;LIDL Dienstleistung;Lebensmittel
+2025-03-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-03-02;-41.31;MediaMarkt;Shopping
+2025-03-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-03-04;-56.38;Cafe Central;Freizeit & Gastro
+2025-03-07;-10.99;Spotify AB;Abos & Medien
+2025-03-10;-45.82;ALDI SUED;Lebensmittel
+2025-03-12;-47.89;Lieferando.de;Freizeit & Gastro
+2025-03-13;-41.20;ALDI SUED;Lebensmittel
+2025-03-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-03-16;-68.04;DB Vertrieb GmbH;Mobilität
+2025-03-17;-29.87;REWE Markt GmbH;Lebensmittel
+2025-03-17;-74.29;REWE Markt GmbH;Lebensmittel
+2025-03-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-03-20;-25.53;Lieferando.de;Freizeit & Gastro
+2025-03-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-03-22;-70.70;LIDL Dienstleistung;Lebensmittel
+2025-03-25;-63.76;REWE Markt GmbH;Lebensmittel
+2025-03-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-03-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-03-28;2850.00;Acme Software GmbH;Einkommen
+2025-03-28;-62.40;EDEKA Center;Lebensmittel
+2025-04-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-04-02;-29.53;Cafe Central;Freizeit & Gastro
+2025-04-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-04-03;-86.77;LIDL Dienstleistung;Lebensmittel
+2025-04-03;-52.73;LIDL Dienstleistung;Lebensmittel
+2025-04-04;-29.57;REWE Markt GmbH;Lebensmittel
+2025-04-07;-150.00;Geldautomat Sparkasse;Bargeld
+2025-04-07;-13.81;McDonalds Deutschland;Freizeit & Gastro
+2025-04-07;-88.82;EDEKA Center;Lebensmittel
+2025-04-07;-10.99;Spotify AB;Abos & Medien
+2025-04-08;-49.02;McDonalds Deutschland;Freizeit & Gastro
+2025-04-10;-89.00;HUK-COBURG Versicherung;Versicherung
+2025-04-11;-9.83;EDEKA Center;Lebensmittel
+2025-04-12;-30.60;McDonalds Deutschland;Freizeit & Gastro
+2025-04-14;-26.93;DB Vertrieb GmbH;Mobilität
+2025-04-15;-86.27;ALDI SUED;Lebensmittel
+2025-04-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-04-18;-22.37;ALDI SUED;Lebensmittel
+2025-04-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-04-19;-27.16;REWE Markt GmbH;Lebensmittel
+2025-04-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-04-22;-50.23;EDEKA Center;Lebensmittel
+2025-04-23;-35.12;LIDL Dienstleistung;Lebensmittel
+2025-04-23;-62.91;EDEKA Center;Lebensmittel
+2025-04-25;-18.94;ALDI SUED;Lebensmittel
+2025-04-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-04-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-04-28;-46.18;Lieferando.de;Freizeit & Gastro
+2025-04-28;2850.00;Acme Software GmbH;Einkommen
+2025-05-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-05-02;-64.74;REWE Markt GmbH;Lebensmittel
+2025-05-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-05-03;-88.59;EDEKA Center;Lebensmittel
+2025-05-03;-120.67;AMAZON EU S.A R.L.;Shopping
+2025-05-06;-43.36;ALDI SUED;Lebensmittel
+2025-05-06;-40.97;ALDI SUED;Lebensmittel
+2025-05-06;-17.39;MediaMarkt;Shopping
+2025-05-07;-24.13;Lieferando.de;Freizeit & Gastro
+2025-05-07;-83.22;REWE Markt GmbH;Lebensmittel
+2025-05-07;-10.99;Spotify AB;Abos & Medien
+2025-05-09;-88.61;ALDI SUED;Lebensmittel
+2025-05-10;-44.80;ALDI SUED;Lebensmittel
+2025-05-15;-78.30;REWE Markt GmbH;Lebensmittel
+2025-05-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-05-17;-129.52;MediaMarkt;Shopping
+2025-05-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-05-19;-46.52;Lieferando.de;Freizeit & Gastro
+2025-05-19;-31.00;DB Vertrieb GmbH;Mobilität
+2025-05-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-05-22;-50.00;Geldautomat Sparkasse;Bargeld
+2025-05-24;-24.99;Lieferando.de;Freizeit & Gastro
+2025-05-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-05-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-05-28;2850.00;Acme Software GmbH;Einkommen
+2025-06-01;-47.87;REWE Markt GmbH;Lebensmittel
+2025-06-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-06-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-06-03;-44.47;LIDL Dienstleistung;Lebensmittel
+2025-06-03;-54.77;LIDL Dienstleistung;Lebensmittel
+2025-06-05;-22.49;Lieferando.de;Freizeit & Gastro
+2025-06-05;-89.19;REWE Markt GmbH;Lebensmittel
+2025-06-07;-99.37;Zalando SE;Shopping
+2025-06-07;-10.99;Spotify AB;Abos & Medien
+2025-06-08;-31.11;EDEKA Center;Lebensmittel
+2025-06-08;-40.15;EDEKA Center;Lebensmittel
+2025-06-09;-50.00;Geldautomat Sparkasse;Bargeld
+2025-06-09;-25.77;LIDL Dienstleistung;Lebensmittel
+2025-06-11;-35.84;dm-drogerie markt;Gesundheit
+2025-06-11;-88.82;REWE Markt GmbH;Lebensmittel
+2025-06-14;-68.91;DB Vertrieb GmbH;Mobilität
+2025-06-15;-80.54;LIDL Dienstleistung;Lebensmittel
+2025-06-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-06-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-06-20;-93.60;REWE Markt GmbH;Lebensmittel
+2025-06-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-06-20;-37.38;Zalando SE;Shopping
+2025-06-22;-64.16;ALDI SUED;Lebensmittel
+2025-06-22;-79.09;LIDL Dienstleistung;Lebensmittel
+2025-06-24;-37.21;Cafe Central;Freizeit & Gastro
+2025-06-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-06-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-06-28;2850.00;Acme Software GmbH;Einkommen
+2025-07-01;-18.15;Cafe Central;Freizeit & Gastro
+2025-07-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-07-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-07-06;-72.49;ALDI SUED;Lebensmittel
+2025-07-07;-10.99;Spotify AB;Abos & Medien
+2025-07-08;-19.18;McDonalds Deutschland;Freizeit & Gastro
+2025-07-08;-13.08;AMAZON EU S.A R.L.;Shopping
+2025-07-09;-50.00;Geldautomat Sparkasse;Bargeld
+2025-07-09;-17.12;Lieferando.de;Freizeit & Gastro
+2025-07-10;-116.67;AMAZON EU S.A R.L.;Shopping
+2025-07-12;-86.21;REWE Markt GmbH;Lebensmittel
+2025-07-12;-26.28;EDEKA Center;Lebensmittel
+2025-07-13;-53.48;McDonalds Deutschland;Freizeit & Gastro
+2025-07-14;-19.09;LIDL Dienstleistung;Lebensmittel
+2025-07-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-07-18;-8.84;REWE Markt GmbH;Lebensmittel
+2025-07-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-07-20;-73.20;EDEKA Center;Lebensmittel
+2025-07-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-07-21;-25.38;dm-drogerie markt;Gesundheit
+2025-07-22;-16.94;ALDI SUED;Lebensmittel
+2025-07-23;-86.64;REWE Markt GmbH;Lebensmittel
+2025-07-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-07-26;-56.47;Pizzeria Bella Italia;Freizeit & Gastro
+2025-07-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-07-27;-40.12;EDEKA Center;Lebensmittel
+2025-07-28;2850.00;Acme Software GmbH;Einkommen
+2025-07-28;-22.14;EDEKA Center;Lebensmittel
+2025-08-01;-53.23;EDEKA Center;Lebensmittel
+2025-08-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-08-02;-17.43;ALDI SUED;Lebensmittel
+2025-08-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-08-07;-65.89;MediaMarkt;Shopping
+2025-08-07;-10.99;Spotify AB;Abos & Medien
+2025-08-09;-23.54;LIDL Dienstleistung;Lebensmittel
+2025-08-09;-11.86;ALDI SUED;Lebensmittel
+2025-08-11;-89.71;REWE Markt GmbH;Lebensmittel
+2025-08-12;-71.38;LIDL Dienstleistung;Lebensmittel
+2025-08-12;-45.52;LIDL Dienstleistung;Lebensmittel
+2025-08-13;-86.26;EDEKA Center;Lebensmittel
+2025-08-14;-60.74;REWE Markt GmbH;Lebensmittel
+2025-08-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-08-18;-15.49;McDonalds Deutschland;Freizeit & Gastro
+2025-08-18;-51.52;Cafe Central;Freizeit & Gastro
+2025-08-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-08-20;-38.02;McDonalds Deutschland;Freizeit & Gastro
+2025-08-20;-35.31;REWE Markt GmbH;Lebensmittel
+2025-08-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-08-20;-95.11;Zalando SE;Shopping
+2025-08-22;-50.00;Geldautomat Sparkasse;Bargeld
+2025-08-22;-56.96;Pizzeria Bella Italia;Freizeit & Gastro
+2025-08-22;-43.53;ALDI SUED;Lebensmittel
+2025-08-24;-86.30;LIDL Dienstleistung;Lebensmittel
+2025-08-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-08-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-08-28;2850.00;Acme Software GmbH;Einkommen
+2025-09-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-09-02;-37.43;Lieferando.de;Freizeit & Gastro
+2025-09-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-09-03;-79.20;EDEKA Center;Lebensmittel
+2025-09-05;-10.13;EDEKA Center;Lebensmittel
+2025-09-06;-106.68;Zalando SE;Shopping
+2025-09-07;-10.99;Spotify AB;Abos & Medien
+2025-09-08;-100.00;Geldautomat Sparkasse;Bargeld
+2025-09-08;-17.97;McDonalds Deutschland;Freizeit & Gastro
+2025-09-11;-40.72;dm-drogerie markt;Gesundheit
+2025-09-13;-29.23;REWE Markt GmbH;Lebensmittel
+2025-09-15;-15.80;McDonalds Deutschland;Freizeit & Gastro
+2025-09-15;-44.06;EDEKA Center;Lebensmittel
+2025-09-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-09-15;-43.69;AMAZON EU S.A R.L.;Shopping
+2025-09-16;-61.18;REWE Markt GmbH;Lebensmittel
+2025-09-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-09-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-09-22;-36.09;Cafe Central;Freizeit & Gastro
+2025-09-22;-15.38;LIDL Dienstleistung;Lebensmittel
+2025-09-22;-35.01;EDEKA Center;Lebensmittel
+2025-09-23;-33.57;DB Vertrieb GmbH;Mobilität
+2025-09-23;-68.58;ALDI SUED;Lebensmittel
+2025-09-25;-54.46;McDonalds Deutschland;Freizeit & Gastro
+2025-09-25;-82.86;REWE Markt GmbH;Lebensmittel
+2025-09-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-09-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-09-27;-92.90;MediaMarkt;Shopping
+2025-09-28;2850.00;Acme Software GmbH;Einkommen
+2025-10-01;-50.00;Geldautomat Sparkasse;Bargeld
+2025-10-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-10-01;-127.90;MediaMarkt;Shopping
+2025-10-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-10-03;-44.09;LIDL Dienstleistung;Lebensmittel
+2025-10-05;-21.12;ALDI SUED;Lebensmittel
+2025-10-05;-137.49;MediaMarkt;Shopping
+2025-10-07;-80.46;ALDI SUED;Lebensmittel
+2025-10-07;-10.99;Spotify AB;Abos & Medien
+2025-10-15;-12.27;dm-drogerie markt;Gesundheit
+2025-10-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-10-16;-20.19;McDonalds Deutschland;Freizeit & Gastro
+2025-10-16;-10.48;Cafe Central;Freizeit & Gastro
+2025-10-16;-8.51;LIDL Dienstleistung;Lebensmittel
+2025-10-18;-47.12;Pizzeria Bella Italia;Freizeit & Gastro
+2025-10-18;-48.54;REWE Markt GmbH;Lebensmittel
+2025-10-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-10-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-10-23;-21.29;EDEKA Center;Lebensmittel
+2025-10-24;-31.46;Zalando SE;Shopping
+2025-10-25;-28.89;McDonalds Deutschland;Freizeit & Gastro
+2025-10-25;-58.81;REWE Markt GmbH;Lebensmittel
+2025-10-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-10-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-10-28;2850.00;Acme Software GmbH;Einkommen
+2025-10-28;-84.62;ALDI SUED;Lebensmittel
+2025-11-01;-73.17;REWE Markt GmbH;Lebensmittel
+2025-11-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-11-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-11-06;-39.90;Lieferando.de;Freizeit & Gastro
+2025-11-07;-81.01;EDEKA Center;Lebensmittel
+2025-11-07;-10.99;Spotify AB;Abos & Medien
+2025-11-08;-18.98;REWE Markt GmbH;Lebensmittel
+2025-11-09;-73.42;ALDI SUED;Lebensmittel
+2025-11-09;-80.64;ALDI SUED;Lebensmittel
+2025-11-10;-150.00;Geldautomat Sparkasse;Bargeld
+2025-11-11;-37.36;ALDI SUED;Lebensmittel
+2025-11-12;-27.51;REWE Markt GmbH;Lebensmittel
+2025-11-13;-36.48;ALDI SUED;Lebensmittel
+2025-11-15;-44.67;Cafe Central;Freizeit & Gastro
+2025-11-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-11-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-11-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-11-25;-50.78;Cafe Central;Freizeit & Gastro
+2025-11-25;-91.28;REWE Markt GmbH;Lebensmittel
+2025-11-25;-10.70;EDEKA Center;Lebensmittel
+2025-11-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-11-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-11-28;2850.00;Acme Software GmbH;Einkommen
+2025-12-01;-81.91;ALDI SUED;Lebensmittel
+2025-12-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2025-12-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2025-12-03;-52.02;LIDL Dienstleistung;Lebensmittel
+2025-12-04;-68.66;LIDL Dienstleistung;Lebensmittel
+2025-12-04;-45.72;LIDL Dienstleistung;Lebensmittel
+2025-12-07;-10.99;Spotify AB;Abos & Medien
+2025-12-09;-53.96;Pizzeria Bella Italia;Freizeit & Gastro
+2025-12-11;-52.44;Lieferando.de;Freizeit & Gastro
+2025-12-11;-10.46;Cafe Central;Freizeit & Gastro
+2025-12-12;-54.35;LIDL Dienstleistung;Lebensmittel
+2025-12-15;-31.21;Cafe Central;Freizeit & Gastro
+2025-12-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2025-12-16;-37.58;Zalando SE;Shopping
+2025-12-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2025-12-20;-150.00;Geldautomat Sparkasse;Bargeld
+2025-12-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2025-12-21;-85.57;ALDI SUED;Lebensmittel
+2025-12-23;-25.25;EDEKA Center;Lebensmittel
+2025-12-23;-21.31;EDEKA Center;Lebensmittel
+2025-12-24;-53.39;LIDL Dienstleistung;Lebensmittel
+2025-12-25;-32.70;McDonalds Deutschland;Freizeit & Gastro
+2025-12-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2025-12-26;-93.59;REWE Markt GmbH;Lebensmittel
+2025-12-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2025-12-28;2850.00;Acme Software GmbH;Einkommen
+2025-12-28;-67.53;REWE Markt GmbH;Lebensmittel
+2026-01-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-01-02;-78.33;DB Vertrieb GmbH;Mobilität
+2026-01-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-01-04;-51.46;Cafe Central;Freizeit & Gastro
+2026-01-07;-46.67;Cafe Central;Freizeit & Gastro
+2026-01-07;-15.45;ALDI SUED;Lebensmittel
+2026-01-07;-10.99;Spotify AB;Abos & Medien
+2026-01-10;-27.28;EDEKA Center;Lebensmittel
+2026-01-10;-65.76;LIDL Dienstleistung;Lebensmittel
+2026-01-10;-29.87;REWE Markt GmbH;Lebensmittel
+2026-01-12;-69.15;LIDL Dienstleistung;Lebensmittel
+2026-01-12;-33.33;AMAZON EU S.A R.L.;Shopping
+2026-01-14;-94.71;LIDL Dienstleistung;Lebensmittel
+2026-01-15;-76.99;REWE Markt GmbH;Lebensmittel
+2026-01-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2026-01-16;-56.30;EDEKA Center;Lebensmittel
+2026-01-16;-56.15;LIDL Dienstleistung;Lebensmittel
+2026-01-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2026-01-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2026-01-23;-49.42;ALDI SUED;Lebensmittel
+2026-01-24;-39.07;Cafe Central;Freizeit & Gastro
+2026-01-24;-24.75;REWE Markt GmbH;Lebensmittel
+2026-01-24;-54.62;EDEKA Center;Lebensmittel
+2026-01-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2026-01-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2026-01-28;2850.00;Acme Software GmbH;Einkommen
+2026-02-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-02-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-02-03;-94.47;REWE Markt GmbH;Lebensmittel
+2026-02-04;-83.93;LIDL Dienstleistung;Lebensmittel
+2026-02-05;-20.98;LIDL Dienstleistung;Lebensmittel
+2026-02-06;-92.00;LIDL Dienstleistung;Lebensmittel
+2026-02-06;-81.76;AMAZON EU S.A R.L.;Shopping
+2026-02-07;-10.99;Spotify AB;Abos & Medien
+2026-02-08;-16.52;dm-drogerie markt;Gesundheit
+2026-02-10;-38.00;Lieferando.de;Freizeit & Gastro
+2026-02-13;-50.78;REWE Markt GmbH;Lebensmittel
+2026-02-15;-150.00;Geldautomat Sparkasse;Bargeld
+2026-02-15;-55.33;Cafe Central;Freizeit & Gastro
+2026-02-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2026-02-16;-49.65;LIDL Dienstleistung;Lebensmittel
+2026-02-18;-74.51;EDEKA Center;Lebensmittel
+2026-02-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2026-02-20;-57.97;Lieferando.de;Freizeit & Gastro
+2026-02-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2026-02-21;-83.56;ALDI SUED;Lebensmittel
+2026-02-22;-20.55;AMAZON EU S.A R.L.;Shopping
+2026-02-25;-19.60;Pizzeria Bella Italia;Freizeit & Gastro
+2026-02-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2026-02-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2026-02-28;-39.01;McDonalds Deutschland;Freizeit & Gastro
+2026-02-28;2850.00;Acme Software GmbH;Einkommen
+2026-02-28;-49.56;REWE Markt GmbH;Lebensmittel
+2026-03-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-03-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-03-06;-76.96;LIDL Dienstleistung;Lebensmittel
+2026-03-07;-10.99;Spotify AB;Abos & Medien
+2026-03-14;-17.99;EDEKA Center;Lebensmittel
+2026-03-15;-18.82;LIDL Dienstleistung;Lebensmittel
+2026-03-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2026-03-17;-54.98;ALDI SUED;Lebensmittel
+2026-03-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2026-03-20;-11.03;McDonalds Deutschland;Freizeit & Gastro
+2026-03-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2026-03-21;-20.96;LIDL Dienstleistung;Lebensmittel
+2026-03-22;-150.00;Geldautomat Sparkasse;Bargeld
+2026-03-22;-28.31;LIDL Dienstleistung;Lebensmittel
+2026-03-23;-82.79;REWE Markt GmbH;Lebensmittel
+2026-03-23;-43.02;LIDL Dienstleistung;Lebensmittel
+2026-03-24;-25.44;Cafe Central;Freizeit & Gastro
+2026-03-25;-31.89;dm-drogerie markt;Gesundheit
+2026-03-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2026-03-26;-76.84;EDEKA Center;Lebensmittel
+2026-03-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2026-03-27;-20.37;REWE Markt GmbH;Lebensmittel
+2026-03-28;2850.00;Acme Software GmbH;Einkommen
+2026-04-01;-150.00;Geldautomat Sparkasse;Bargeld
+2026-04-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-04-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-04-04;-58.48;McDonalds Deutschland;Freizeit & Gastro
+2026-04-06;-17.43;dm-drogerie markt;Gesundheit
+2026-04-07;-44.72;AMAZON EU S.A R.L.;Shopping
+2026-04-07;-10.99;Spotify AB;Abos & Medien
+2026-04-09;-23.79;ALDI SUED;Lebensmittel
+2026-04-10;-89.00;HUK-COBURG Versicherung;Versicherung
+2026-04-10;-65.64;ALDI SUED;Lebensmittel
+2026-04-10;-66.96;MediaMarkt;Shopping
+2026-04-11;-66.30;EDEKA Center;Lebensmittel
+2026-04-11;-43.81;ALDI SUED;Lebensmittel
+2026-04-14;-11.76;Cafe Central;Freizeit & Gastro
+2026-04-15;-15.66;LIDL Dienstleistung;Lebensmittel
+2026-04-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2026-04-16;-53.15;ALDI SUED;Lebensmittel
+2026-04-16;-38.27;LIDL Dienstleistung;Lebensmittel
+2026-04-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2026-04-19;-11.50;EDEKA Center;Lebensmittel
+2026-04-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2026-04-21;-78.84;REWE Markt GmbH;Lebensmittel
+2026-04-21;-67.47;AMAZON EU S.A R.L.;Shopping
+2026-04-22;-53.34;McDonalds Deutschland;Freizeit & Gastro
+2026-04-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2026-04-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2026-04-27;-74.16;REWE Markt GmbH;Lebensmittel
+2026-04-28;-35.24;Lieferando.de;Freizeit & Gastro
+2026-04-28;2850.00;Acme Software GmbH;Einkommen
+2026-05-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-05-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-05-04;-64.35;EDEKA Center;Lebensmittel
+2026-05-07;-10.99;Spotify AB;Abos & Medien
+2026-05-08;-47.74;EDEKA Center;Lebensmittel
+2026-05-09;-48.41;McDonalds Deutschland;Freizeit & Gastro
+2026-05-10;-150.00;Geldautomat Sparkasse;Bargeld
+2026-05-11;-56.65;Cafe Central;Freizeit & Gastro
+2026-05-13;-24.58;EDEKA Center;Lebensmittel
+2026-05-15;-13.99;NETFLIX INTERNATIONAL B.V.;Abos & Medien
+2026-05-16;-89.14;LIDL Dienstleistung;Lebensmittel
+2026-05-17;-69.37;ALDI SUED;Lebensmittel
+2026-05-18;-43.50;EDEKA Center;Lebensmittel
+2026-05-18;-19.99;Telekom Deutschland GmbH;Abos & Medien
+2026-05-20;-29.90;FitX Deutschland GmbH;Freizeit & Gastro
+2026-05-25;-200.00;Trade Republic Bank GmbH;Sparen & Anlegen
+2026-05-27;-4.90;Sparkasse Hanau;Bank & Gebühren
+2026-05-27;-87.42;ALDI SUED;Lebensmittel
+2026-05-27;-49.98;ALDI SUED;Lebensmittel
+2026-05-28;2850.00;Acme Software GmbH;Einkommen
+2026-06-01;-45.84;McDonalds Deutschland;Freizeit & Gastro
+2026-06-01;-980.00;Wohnbau Hanau GmbH;Wohnen
+2026-06-02;-35.68;ALDI SUED;Lebensmittel
+2026-06-03;-128.00;Stadtwerke Hanau;Nebenkosten & Energie
+2026-06-03;-39.07;dm-drogerie markt;Gesundheit
+2026-06-04;-35.82;McDonalds Deutschland;Freizeit & Gastro
+2026-06-07;-10.99;Spotify AB;Abos & Medien
+2026-06-08;-82.47;ALDI SUED;Lebensmittel
+2026-06-09;-100.00;Geldautomat Sparkasse;Bargeld
+2026-06-11;-56.02;ALDI SUED;Lebensmittel

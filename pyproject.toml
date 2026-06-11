@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kontocast"
+version = "0.1.0"
+description = "Local-first cash-flow analytics & Monte-Carlo forecasting for German bank exports (CSV/CAMT.053)"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Anh Thien Nguyen" }]
+keywords = ["finance", "cashflow", "forecasting", "monte-carlo", "camt", "banking", "germany"]
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.26",
+  "typer>=0.12",
+  "rich>=13.0",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic>=0.40"]
+dev = ["pytest>=8.0", "ruff>=0.4"]
+
+[project.scripts]
+kontocast = "kontocast.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

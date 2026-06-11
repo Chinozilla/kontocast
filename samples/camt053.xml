@@ -1,0 +1,4519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.08">
+  <BkToCstmrStmt>
+    <Stmt>
+      <Id>KONTOCAST-SYNTH</Id>
+      <Acct><Id><IBAN>DE02120300000000202051</IBAN></Id></Acct>
+      <Ntry>
+        <Amt Ccy="EUR">72.51</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00010</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 01/2025 REF00002</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 01/2025 REF00003</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">27.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00014</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">81.77</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00023</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 01/2025 REF00005</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">100.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00026</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.14</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00011</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">47.08</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00016</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">23.17</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00018</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.93</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00020</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 01/2025 REF00004</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.30</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00015</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 01/2025 REF00008</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.71</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00013</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00025</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">22.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00021</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 01/2025 REF00006</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">125.11</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00024</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">72.44</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00012</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">32.43</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00022</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">26.17</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00019</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 01/2025 REF00007</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">83.63</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-26</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00017</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 01/2025 REF00009</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-01-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 01/2025 REF00001</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 02/2025 REF00028</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 02/2025 REF00029</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">21.58</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00047</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">66.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00051</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">40.21</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00037</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">48.22</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00040</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">42.43</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00045</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 02/2025 REF00031</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">79.50</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00043</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">139.65</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00049</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">12.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00044</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">32.18</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00036</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 02/2025 REF00030</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">74.16</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00050</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 02/2025 REF00034</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">63.24</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00039</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 02/2025 REF00032</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">32.40</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00046</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">67.87</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00041</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.23</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00038</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">36.21</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00042</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">38.81</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00048</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 02/2025 REF00033</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 02/2025 REF00035</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-02-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 02/2025 REF00027</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">90.98</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00066</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 03/2025 REF00053</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">41.31</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00072</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 03/2025 REF00054</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00071</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 03/2025 REF00056</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">45.82</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00065</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">47.89</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00069</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">41.20</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00061</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 03/2025 REF00055</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">68.04</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00073</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.87</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00062</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">74.29</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00067</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 03/2025 REF00059</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.53</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00070</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 03/2025 REF00057</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">70.70</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00063</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">63.76</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00064</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 03/2025 REF00058</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 03/2025 REF00060</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 03/2025 REF00052</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">62.40</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-03-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00068</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 04/2025 REF00075</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.53</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00099</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 04/2025 REF00076</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.77</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00092</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">52.73</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00093</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.57</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00088</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00100</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.81</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00096</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">88.82</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00085</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 04/2025 REF00078</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">49.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00095</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">89.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>HUK-COBURG Versicherung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>HAFTPFLICHT JAHRESBEITRAG 2025 REF00102</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">9.83</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00089</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">30.60</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00097</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">26.93</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00101</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.27</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00087</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 04/2025 REF00077</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">22.37</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00084</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 04/2025 REF00081</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">27.16</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00090</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 04/2025 REF00079</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.23</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00094</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.12</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00086</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">62.91</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00091</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">18.94</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00083</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 04/2025 REF00080</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 04/2025 REF00082</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">46.18</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00098</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-04-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 04/2025 REF00074</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 05/2025 REF00104</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">64.74</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00113</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 05/2025 REF00105</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">88.59</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00114</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">120.67</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00125</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.36</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00115</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">40.97</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00117</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.39</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00124</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">24.13</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00120</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">83.22</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00116</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 05/2025 REF00107</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">88.61</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00118</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.80</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00119</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">78.30</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00112</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 05/2025 REF00106</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">129.52</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00123</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 05/2025 REF00110</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">46.52</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00121</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00127</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 05/2025 REF00108</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00126</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">24.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00122</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 05/2025 REF00109</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 05/2025 REF00111</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-05-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 05/2025 REF00103</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">47.87</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00142</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 06/2025 REF00129</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 06/2025 REF00130</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.47</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00137</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">54.77</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00143</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">22.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00149</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">89.19</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00144</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">99.37</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00152</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 06/2025 REF00132</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.11</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00139</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">40.15</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00145</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00153</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.77</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00138</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.84</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00155</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">88.82</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00141</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">68.91</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00154</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">80.54</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00146</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 06/2025 REF00131</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 06/2025 REF00135</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">93.60</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00147</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 06/2025 REF00133</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">37.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00151</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">64.16</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00140</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">79.09</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00148</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">37.21</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00150</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 06/2025 REF00134</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 06/2025 REF00136</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-06-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 06/2025 REF00128</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">18.15</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00175</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 07/2025 REF00157</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 07/2025 REF00158</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">72.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00165</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 07/2025 REF00160</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.18</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00179</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.08</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00181</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00182</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.12</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00177</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">116.67</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00180</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.21</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00170</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">26.28</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00171</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.48</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00178</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.09</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00169</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 07/2025 REF00159</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">8.84</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00166</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 07/2025 REF00163</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">73.20</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00173</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 07/2025 REF00161</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00183</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">16.94</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00172</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.64</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00167</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 07/2025 REF00162</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.47</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-26</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00176</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 07/2025 REF00164</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">40.12</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00168</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 07/2025 REF00156</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">22.14</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-07-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00174</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.23</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00200</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 08/2025 REF00185</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.43</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00195</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 08/2025 REF00186</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">65.89</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00209</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 08/2025 REF00188</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">23.54</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00194</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">11.86</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00199</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">89.71</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00193</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">71.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00196</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">45.52</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00201</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.26</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00198</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">60.74</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00197</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 08/2025 REF00187</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">15.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00205</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">51.52</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00208</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 08/2025 REF00191</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">38.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00207</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.31</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00202</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 08/2025 REF00189</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">95.11</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00210</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00211</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.96</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00206</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.53</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00204</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">86.30</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00203</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 08/2025 REF00190</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 08/2025 REF00192</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-08-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 08/2025 REF00184</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 09/2025 REF00213</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">37.43</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00231</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 09/2025 REF00214</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">79.20</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00222</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.13</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00224</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">106.68</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00235</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 09/2025 REF00216</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">100.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00238</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.97</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00230</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">40.72</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00240</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.23</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00228</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">15.80</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00232</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.06</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00226</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 09/2025 REF00215</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.69</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00236</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">61.18</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00225</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 09/2025 REF00219</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 09/2025 REF00217</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">36.09</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00233</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">15.38</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00221</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.01</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00223</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">33.57</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00239</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">68.58</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00227</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">54.46</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00234</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">82.86</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00229</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 09/2025 REF00218</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 09/2025 REF00220</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">92.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00237</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-09-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 09/2025 REF00212</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00265</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 10/2025 REF00242</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">127.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00264</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 10/2025 REF00243</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.09</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00252</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">21.12</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00250</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">137.49</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00263</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">80.46</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00254</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 10/2025 REF00245</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">12.27</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00266</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 10/2025 REF00244</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.19</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00260</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.48</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00261</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">8.51</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00257</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">47.12</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00259</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">48.54</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00253</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 10/2025 REF00248</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 10/2025 REF00246</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">21.29</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00251</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.46</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00262</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">28.89</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00258</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">58.81</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00255</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 10/2025 REF00247</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 10/2025 REF00249</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 10/2025 REF00241</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">84.62</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-10-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00256</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">73.17</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00280</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 11/2025 REF00268</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 11/2025 REF00269</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">39.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00287</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">81.01</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00284</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 11/2025 REF00271</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">18.98</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00285</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">73.42</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00278</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">80.64</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00279</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00289</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">37.36</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00277</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">27.51</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00281</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">36.48</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00276</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.67</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00286</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 11/2025 REF00270</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 11/2025 REF00274</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 11/2025 REF00272</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.78</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00288</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">91.28</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00282</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.70</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00283</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 11/2025 REF00273</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 11/2025 REF00275</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-11-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 11/2025 REF00267</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">81.91</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00305</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 12/2025 REF00291</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 12/2025 REF00292</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">52.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00304</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">68.66</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00300</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">45.72</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00306</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 12/2025 REF00294</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.96</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00312</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">52.44</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00311</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.46</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00314</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">54.35</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00303</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.21</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00310</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 12/2025 REF00293</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">37.58</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Zalando SE</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00315</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 12/2025 REF00297</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00316</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 12/2025 REF00295</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">85.57</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00307</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.25</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00299</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">21.31</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00308</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.39</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00309</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">32.70</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00313</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 12/2025 REF00296</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">93.59</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-26</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00302</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 12/2025 REF00298</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 12/2025 REF00290</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">67.53</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2025-12-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00301</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 01/2026 REF00318</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">78.33</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>DB Vertrieb GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>FAHRKARTE DEUTSCHE BAHN REF00342</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 01/2026 REF00319</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">51.46</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00340</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">46.67</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00338</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">15.45</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00326</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 01/2026 REF00321</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">27.28</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00330</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">65.76</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00331</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.87</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00335</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">69.15</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00334</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">33.33</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-12</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00341</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">94.71</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00333</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">76.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00329</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 01/2026 REF00320</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.30</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00327</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.15</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00332</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 01/2026 REF00324</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 01/2026 REF00322</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">49.42</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00328</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">39.07</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00339</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">24.75</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00336</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">54.62</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00337</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 01/2026 REF00323</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 01/2026 REF00325</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-01-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 01/2026 REF00317</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 02/2026 REF00344</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 02/2026 REF00345</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">94.47</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00359</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">83.93</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00353</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.98</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-05</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00358</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">92.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00355</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">81.76</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00367</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 02/2026 REF00347</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">16.52</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00369</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">38.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00363</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">50.78</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00357</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00368</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">55.33</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00361</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 02/2026 REF00346</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">49.65</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00354</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">74.51</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00360</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 02/2026 REF00350</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">57.97</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00364</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 02/2026 REF00348</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">83.56</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00352</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.55</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00366</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.60</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Pizzeria Bella Italia</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00365</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 02/2026 REF00349</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 02/2026 REF00351</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">39.01</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00362</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 02/2026 REF00343</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">49.56</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-02-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00356</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 03/2026 REF00371</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 03/2026 REF00372</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">76.96</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00385</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 03/2026 REF00374</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00382</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">18.82</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00386</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 03/2026 REF00373</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">54.98</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00388</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 03/2026 REF00377</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">11.03</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00389</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 03/2026 REF00375</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.96</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00383</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00391</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">28.31</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00380</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">82.79</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00379</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-23</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00387</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">25.44</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-24</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00390</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">31.89</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00392</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 03/2026 REF00376</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">76.84</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-26</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00381</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 03/2026 REF00378</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">20.37</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00384</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-03-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 03/2026 REF00370</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00419</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 04/2026 REF00394</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 04/2026 REF00395</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">58.48</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00412</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">17.43</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-06</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00420</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">44.72</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00417</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 04/2026 REF00397</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">23.79</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00404</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">89.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>HUK-COBURG Versicherung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>HAFTPFLICHT JAHRESBEITRAG 2026 REF00421</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">65.64</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00409</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">66.96</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>MediaMarkt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00418</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">66.30</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00407</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.81</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00408</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">11.76</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-14</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00415</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">15.66</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00411</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 04/2026 REF00396</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.15</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00403</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">38.27</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00406</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 04/2026 REF00400</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">11.50</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-19</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00402</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 04/2026 REF00398</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">78.84</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00405</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">67.47</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-21</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>AMAZON EU S.A R.L.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ONLINE EINKAUF REF00416</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">53.34</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-22</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00414</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 04/2026 REF00399</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 04/2026 REF00401</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">74.16</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>REWE Markt GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00410</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.24</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Lieferando.de</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00413</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-04-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 04/2026 REF00393</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 05/2026 REF00423</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 05/2026 REF00424</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">64.35</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00433</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 05/2026 REF00426</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">47.74</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00437</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">48.41</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00439</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">150.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-10</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00441</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.65</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Cafe Central</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00440</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">24.58</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-13</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00438</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">13.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-15</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>NETFLIX INTERNATIONAL B.V.</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>NETFLIX ABO 05/2026 REF00425</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">89.14</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-16</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>LIDL Dienstleistung</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00434</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">69.37</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-17</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00435</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">43.50</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>EDEKA Center</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00431</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">19.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-18</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Telekom Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MOBILFUNK RECHNUNG 05/2026 REF00429</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">29.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-20</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>FitX Deutschland GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MITGLIEDSBEITRAG FITNESS 05/2026 REF00427</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-25</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Trade Republic Bank GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPARPLAN ETF MSCI WORLD 05/2026 REF00428</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">4.90</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Sparkasse Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ENTGELT KONTOFUEHRUNG 05/2026 REF00430</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">87.42</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00432</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">49.98</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-27</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00436</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">2850.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-05-28</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Dbtr><Pty><Nm>Acme Software GmbH</Nm></Pty></Dbtr></RltdPties>
+          <RmtInf><Ustrd>GEHALT 05/2026 REF00422</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">45.84</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00462</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">980.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-01</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Wohnbau Hanau GmbH</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>MIETE BERGSTRASSE 3 06/2026 REF00443</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.68</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-02</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00456</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">128.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Stadtwerke Hanau</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>ABSCHLAG STROM GAS 06/2026 REF00444</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">39.07</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-03</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>dm-drogerie markt</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>EINKAUF DROGERIE REF00465</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">35.82</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-04</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>McDonalds Deutschland</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BESTELLUNG DANKE REF00461</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">10.99</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-07</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Spotify AB</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>SPOTIFY PREMIUM 06/2026 REF00446</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">82.47</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-08</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00455</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">100.00</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-09</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>Geldautomat Sparkasse</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>BARGELDAUSZAHLUNG REF00464</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">56.02</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <Sts><Cd>BOOK</Cd></Sts>
+        <BookgDt><Dt>2026-06-11</Dt></BookgDt>
+        <NtryDtls><TxDtls>
+          <RltdPties><Cdtr><Pty><Nm>ALDI SUED</Nm></Pty></Cdtr></RltdPties>
+          <RmtInf><Ustrd>KARTENZAHLUNG DANKE REF00452</Ustrd></RmtInf>
+        </TxDtls></NtryDtls>
+      </Ntry>
+    </Stmt>
+  </BkToCstmrStmt>
+</Document>
